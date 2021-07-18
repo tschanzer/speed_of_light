@@ -1,0 +1,59 @@
+\begin{thebibliography}{6}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{Spence}(2019)}]{spence_history}
+\bibinfo{author}{\bibfnamefont{J.~C.} \bibnamefont{Spence}},
+  \bibinfo{journal}{Journal and proceedings of the Royal Society of New South
+  Wales} \textbf{\bibinfo{volume}{152}}, \bibinfo{pages}{216}
+  (\bibinfo{year}{2019}), ISSN \bibinfo{issn}{0035-9173}.
+
+\bibitem[{sib(2019)}]{sibrochure}
+\emph{\bibinfo{title}{The International System of Units (SI)}},
+  \bibinfo{organization}{Bureau International des Poids et Mesures},
+  \bibinfo{edition}{9th} ed. (\bibinfo{year}{2019}),
+  \urlprefix\url{https://www.bipm.org/en/publications/si-brochure}.
+
+\bibitem[{\citenamefont{Meeten}(2014)}]{meeten_measurement}
+\bibinfo{author}{\bibfnamefont{G.~H.} \bibnamefont{Meeten}}, in
+  \emph{\bibinfo{booktitle}{Measurement, Instrumentation, and Sensors Handbook
+  - Electromagnetic, Optical, Radiation, Chemical, and Biomedical
+  Measurement}}, edited by \bibinfo{editor}{\bibfnamefont{J.~G.}
+  \bibnamefont{Webster}} \bibnamefont{and}
+  \bibinfo{editor}{\bibfnamefont{H.}~\bibnamefont{Eren}}
+  (\bibinfo{publisher}{Taylor \& Francis}, \bibinfo{year}{2014}), pp.
+  \bibinfo{pages}{50.5--50.9}, \bibinfo{edition}{2nd} ed., ISBN
+  \bibinfo{isbn}{9781439848913}.
+
+\bibitem[{\citenamefont{Birch and Downs}(1994)}]{birchdowns}
+\bibinfo{author}{\bibfnamefont{K.~P.} \bibnamefont{Birch}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.~J.} \bibnamefont{Downs}},
+  \bibinfo{journal}{Metrologia} \textbf{\bibinfo{volume}{31}},
+  \bibinfo{pages}{315} (\bibinfo{year}{1994}), ISSN \bibinfo{issn}{0026-1394}.
+
+\bibitem[{\citenamefont{Stone and Zimmerman}(2019-07-01)}]{emtoolbox}
+\bibinfo{author}{\bibfnamefont{J.~A.} \bibnamefont{Stone}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{J.~H.} \bibnamefont{Zimmerman}},
+  \emph{\bibinfo{title}{Index of refraction of air}}
+  (\bibinfo{year}{2019-07-01}), \bibinfo{note}{{National Institute of Standards
+  and Technology, U.S. Department of Commerce. (Documentation and calculator
+  for the refractive index of air, accessed 2021-06-28)}},
+  \urlprefix\url{https://emtoolbox.nist.gov/Wavelength/Documentation.asp}.
+
+\bibitem[{phy(2017)}]{phywebrochure}
+\emph{\bibinfo{title}{Measuring the velocity of light}},
+  \bibinfo{organization}{PHYWE} (\bibinfo{year}{2017}),
+  \bibinfo{note}{{(student's experiment sheet)}},
+  \urlprefix\url{https://www.phywe.com/experiments-sets/university-experiments/measuring-the-velocity-of-light_10175_11106/}.
+
+\end{thebibliography}

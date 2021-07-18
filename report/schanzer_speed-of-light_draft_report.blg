@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: schanzer_speed-of-light_draft_report.aux
+The style file: apsrev.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: schanzer_speed-of-light_draft_reportNotes.bib
+Database file #2: references.bib
+Warning--entry type for "emtoolbox" isn't style-file defined
+--line 1 of file references.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 6 entries,
+            3411 wiz_defined-function locations,
+            1198 strings with 11447 characters,
+and the built_in function-call counts, 3463 in all, are:
+= -- 235
+> -- 60
+< -- 17
++ -- 43
+- -- 14
+* -- 433
+:= -- 386
+add.period$ -- 6
+call.type$ -- 6
+change.case$ -- 29
+chr.to.int$ -- 18
+cite$ -- 10
+duplicate$ -- 322
+empty$ -- 310
+format.name$ -- 43
+if$ -- 671
+int.to.chr$ -- 1
+int.to.str$ -- 7
+missing$ -- 45
+newline$ -- 33
+num.names$ -- 13
+pop$ -- 73
+preamble$ -- 1
+purify$ -- 24
+quote$ -- 0
+skip$ -- 132
+stack$ -- 0
+substring$ -- 144
+swap$ -- 245
+text.length$ -- 9
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 36
+warning$ -- 0
+while$ -- 16
+width$ -- 0
+write$ -- 81
+(There was 1 warning)
