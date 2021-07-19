@@ -1,0 +1,119 @@
+\begin{thebibliography}{14}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{Spence}(2019)}]{spence_history}
+\bibinfo{author}{\bibfnamefont{J.~C.} \bibnamefont{Spence}},
+  \bibinfo{journal}{Journal and proceedings of the Royal Society of New South
+  Wales} \textbf{\bibinfo{volume}{152}}, \bibinfo{pages}{216}
+  (\bibinfo{year}{2019}), ISSN \bibinfo{issn}{0035-9173}.
+
+\bibitem[{sib(2019)}]{sibrochure}
+\emph{\bibinfo{title}{The International System of Units (SI)}},
+  \bibinfo{organization}{Bureau International des Poids et Mesures},
+  \bibinfo{edition}{9th} ed. (\bibinfo{year}{2019}),
+  \urlprefix\url{https://www.bipm.org/en/publications/si-brochure}.
+
+\bibitem[{\citenamefont{Meeten}(2014)}]{meeten_measurement}
+\bibinfo{author}{\bibfnamefont{G.~H.} \bibnamefont{Meeten}}, in
+  \emph{\bibinfo{booktitle}{Measurement, Instrumentation, and Sensors Handbook
+  - Electromagnetic, Optical, Radiation, Chemical, and Biomedical
+  Measurement}}, edited by \bibinfo{editor}{\bibfnamefont{J.~G.}
+  \bibnamefont{Webster}} \bibnamefont{and}
+  \bibinfo{editor}{\bibfnamefont{H.}~\bibnamefont{Eren}}
+  (\bibinfo{publisher}{Taylor \& Francis}, \bibinfo{year}{2014}), pp.
+  \bibinfo{pages}{50.5--50.9}, \bibinfo{edition}{2nd} ed., ISBN
+  \bibinfo{isbn}{9781439848913}.
+
+\bibitem[{\citenamefont{Birch and Downs}(1994)}]{birchdowns}
+\bibinfo{author}{\bibfnamefont{K.~P.} \bibnamefont{Birch}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.~J.} \bibnamefont{Downs}},
+  \bibinfo{journal}{Metrologia} \textbf{\bibinfo{volume}{31}},
+  \bibinfo{pages}{315} (\bibinfo{year}{1994}), ISSN \bibinfo{issn}{0026-1394}.
+
+\bibitem[{\citenamefont{Stone and Zimmerman}(2019-07-01)}]{emtoolbox}
+\bibinfo{author}{\bibfnamefont{J.~A.} \bibnamefont{Stone}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{J.~H.} \bibnamefont{Zimmerman}},
+  \emph{\bibinfo{title}{Index of refraction of air}}
+  (\bibinfo{year}{2019-07-01}), \bibinfo{note}{{National Institute of Standards
+  and Technology, U.S. Department of Commerce. (Documentation and calculator
+  for the refractive index of air, accessed 2021-06-28)}},
+  \urlprefix\url{https://emtoolbox.nist.gov/Wavelength/Documentation.asp}.
+
+\bibitem[{dat()}]{datasheet}
+\emph{\bibinfo{title}{Speed of light meter: operating instructions}},
+  \bibinfo{organization}{PHYWE} (????), \bibinfo{note}{{(source/detector unit
+  datasheet)}},
+  \urlprefix\url{https://www.phywe.com/physics/light-and-optics/light-propagation/speed-of-light-meter_1908/}.
+
+\bibitem[{\citenamefont{Polyanskiy}()}]{rii}
+\bibinfo{author}{\bibfnamefont{M.~N.} \bibnamefont{Polyanskiy}},
+  \emph{\bibinfo{title}{Refractive index database}},
+  \urlprefix\url{https://refractiveindex.info}.
+
+\bibitem[{\citenamefont{Sultanova et~al.}(2009)\citenamefont{Sultanova,
+  Kasarova, and Nikolov}}]{sultanova}
+\bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Sultanova}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Kasarova}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{Nikolov}},
+  \bibinfo{journal}{Acta Phys. Pol. A} \textbf{\bibinfo{volume}{116}},
+  \bibinfo{pages}{585} (\bibinfo{year}{2009}).
+
+\bibitem[{\citenamefont{Zhang et~al.}(2020)\citenamefont{Zhang, Qiu, Li, Zhao,
+  and Liu}}]{zhang}
+\bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{Zhang}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Qiu}},
+  \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{Li}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Zhao}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{L.}~\bibnamefont{Liu}},
+  \bibinfo{journal}{Appl. Opt.} \textbf{\bibinfo{volume}{59}},
+  \bibinfo{pages}{2337} (\bibinfo{year}{2020}).
+
+\bibitem[{\citenamefont{Beadie et~al.}(2015)\citenamefont{Beadie, Brindza,
+  Flynn, Rosenberg, and Shirk}}]{beadie}
+\bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Beadie}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Brindza}},
+  \bibinfo{author}{\bibfnamefont{R.~A.} \bibnamefont{Flynn}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Rosenberg}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{J.~S.} \bibnamefont{Shirk}},
+  \bibinfo{journal}{Appl. Opt.} \textbf{\bibinfo{volume}{54}},
+  \bibinfo{pages}{F139} (\bibinfo{year}{2015}), ISSN \bibinfo{issn}{0003-6935}.
+
+\bibitem[{\citenamefont{Kedenburg et~al.}(2012)\citenamefont{Kedenburg, Vieweg,
+  Gissibl, and Giessen}}]{kedenburg}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Kedenburg}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Vieweg}},
+  \bibinfo{author}{\bibfnamefont{T.}~\bibnamefont{Gissibl}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Giessen}},
+  \bibinfo{journal}{Opt. Mater. Express} \textbf{\bibinfo{volume}{2}},
+  \bibinfo{pages}{1588} (\bibinfo{year}{2012}).
+
+\bibitem[{\citenamefont{Daimon and Masumura}(2007)}]{daimon}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Daimon}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Masumura}},
+  \bibinfo{journal}{Appl. Opt.} \textbf{\bibinfo{volume}{46}},
+  \bibinfo{pages}{3811} (\bibinfo{year}{2007}).
+
+\bibitem[{\citenamefont{Hale and Querry}(1973)}]{hale}
+\bibinfo{author}{\bibfnamefont{G.~M.} \bibnamefont{Hale}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{M.~R.} \bibnamefont{Querry}},
+  \bibinfo{journal}{Appl. Opt.} \textbf{\bibinfo{volume}{12}},
+  \bibinfo{pages}{555} (\bibinfo{year}{1973}).
+
+\bibitem[{\citenamefont{Segelstein}(1981)}]{segelstein}
+\bibinfo{author}{\bibfnamefont{D.~J.} \bibnamefont{Segelstein}},
+  \emph{\bibinfo{title}{The complex refractive index of water}}
+  (\bibinfo{year}{1981}), \bibinfo{note}{{MSc thesis, University of
+  Missouri--Kansas City, p. 141}}.
+
+\end{thebibliography}
